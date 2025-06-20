@@ -1,3 +1,5 @@
 fetching
-from loacl
+from local
+from fetcher branch
 from remorte
+
